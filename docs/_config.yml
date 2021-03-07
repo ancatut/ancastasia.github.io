@@ -21,8 +21,7 @@
 title: Anca Tutescu
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-Work and projects by Anca Tutescu.
-Game development, coding, sound design, project management.
+Work and projects by Anca Tutescu. Game development, coding, sound design, project management.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ancastasia
