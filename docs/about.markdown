@@ -40,4 +40,11 @@ You can find the source code for Jekyll at GitHub:
 |♙|♙|♙|♙| |♙|♙|♙|
 |♖|♘|♗|♕|♔| | |♖|
 
-I give this plugin two :+1:!
+I give this plugin two  :+1:!
+
+```mermaid!
+pie title Pets adopted by volunteers
+  "Dogs" : 386
+  "Cats" : 85
+  "Rats" : 35
+```
