@@ -48,3 +48,5 @@ pie title Pets adopted by volunteers
   "Cats" : 85
   "Rats" : 35
 ```
+
+{% include image-gallery.html folder="/photos/rainforest" %}
