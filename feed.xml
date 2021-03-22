@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2021-03-20T20:41:38+08:00</updated>
+  <updated>2021-03-23T03:19:13+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>/</uri>
@@ -24,7 +24,7 @@
     <link href="/portfolio/" rel="alternate" type="text/html" title="Portfolio" />
     <published>2021-03-03T00:00:00+08:00</published>
   
-    <updated>2021-03-03T00:00:00+08:00</updated>
+    <updated>2021-03-20T20:52:07+08:00</updated>
   
     <id>/portfolio/</id>
     <content src="/portfolio/" />
@@ -49,30 +49,14 @@ Project Lead, Unreal Engine Implementation, Music
 
 
 
+Web Programming, NGWebS - Node-based Web Storytelling Editor - 2020-ongoing
+3-person team developing a next-generation web storytelling editor.
+Repo at NGWebS Editor.
+
+
 VR Rainforest Experience, 2020
 Technical implementation Unity - Kieler Forschungswerkstatt.
-The project involved developing a VR application for the Oculus Quest which participants could wear inside the rainforest greenhouse at The Botanical Garden in Kiel.
-
-
-
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-...
+The project involved developing a...
     </summary>
   
 

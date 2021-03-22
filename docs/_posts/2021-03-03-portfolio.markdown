@@ -9,6 +9,12 @@ Project Lead, Unreal Engine Implementation, Music
 ![VRME](/assets/img/VRME tongue.png "VRME")
 <br/><br/>
 
+Web Programming, NGWebS - Node-based Web Storytelling Editor - 2020-ongoing
+====================
+3-person team developing a next-generation web storytelling editor.<br/>
+Repo at [NGWebS Editor](https://github.com/pekasen/ngwebs-editor).
+<br/><br/>
+
 VR Rainforest Experience, 2020
 ====================
 Technical implementation Unity - [Kieler Forschungswerkstatt](https://www.forschungs-werkstatt.de/allgemein/virtual-reality-in-der-kieler-forschungswerkstatt/).<br/>
@@ -29,4 +35,9 @@ Programming, Sound Implementation & Music Direction, Game Demo "Prospector", 201
 [PROSPECTOR](https://studio3030.itch.io/prospector) is a narrative adventure game set in a futuristic city built on the rim of a giant crater, veiled in constant fog.
 
 When a malfunction of your ship’s engine forces you to stay in this city for a while, you find yourself confronted with strange customs, masked faces and, maybe, the opportunity of a lifetime. Delve into the shrouded streets of the city, look behind the masks of its inhabitants and reveal what is hidden.
+<br/><br/>
+
+Animation, Sound Implementation, some Programming - Slavic Game Jam, 2018
+====================
+["Ire & Ike"](https://yesweplaytested.itch.io/ire-and-ike)
 <br/><br/>
