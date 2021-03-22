@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Portfolio
-permalink: /portfolio/
+date: 2021-01-03 18:32:00 -0500
 ---
+
 VR Music Experience (working title), 2020-ongoing
 ====================
 Project Lead, Unreal Engine Implementation, Music
