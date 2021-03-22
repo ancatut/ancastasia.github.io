@@ -1,6 +1,10 @@
 ---
 title: Portfolio
+author: Cotes Chung
 date: 2021-03-03 18:32:00 -0500
+categories: [Blogging, Tutorial]
+tags: [getting started]
+pin: true
 ---
 
 VR Music Experience (working title), 2020-ongoing
