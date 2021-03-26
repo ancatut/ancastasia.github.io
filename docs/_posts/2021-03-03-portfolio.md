@@ -28,6 +28,11 @@ The project involved developing a VR application for the Oculus Quest which part
 Sound design for documentary film ["God's Cocaine"](http://godscocaine.com/)
 <br/><br/>
 
+## Sound Design, Spatial Audio - "Aus dem Alltäglichen" 2019
+An immersive fulldome short film with spatial audio produced for the Evening Program "Equinox" at Planetarium Hamburg 2019.
+A paper was later published on a related topic, read on ![DBT](https://www.db-thueringen.de/receive/dbt_mods_00039974) or ![ResearchGate](https://www.researchgate.net/publication/337402782_Spatial_audio_production_for_immersive_fulldome_projections)
+<br/><br/>
+
 ## Programming, Sound Implementation & Music Direction, Game Demo "Prospector", 2018-2019
 ![ProspectorTrailer](https://youtu.be/j8Mv7AojpKQ "Prospector")
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/j8Mv7AojpKQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
