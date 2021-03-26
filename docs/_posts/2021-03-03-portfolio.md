@@ -1,9 +1,9 @@
 ---
 title: Portfolio
-author: Cotes Chung
+author: Anca Tutescu
 date: 2021-03-03 18:32:00 -0500
-categories: [Blogging, Tutorial]
-tags: [getting started]
+categories: 
+tags: 
 pin: true
 ---
 
@@ -24,17 +24,18 @@ The project involved developing a VR application for the Oculus Quest which part
 <br/><br/>
 
 ## Sound Design, Documentary "God's Cocaine", 2019
-![God's Cocaine](/assets/img/Plakat_Gods_Cocaine_Presse.jpg){: height="400"}{: .left}
+![God's Cocaine](/assets/img/Plakat_Gods_Cocaine_Presse.jpg){: height="400"}{: .normal}<br/>
 Sound design for documentary film ["God's Cocaine"](http://godscocaine.com/)
 <br/><br/>
 
-## Sound Design, Spatial Audio - "Aus dem Alltäglichen" 2019
+## Sound Design, Spatial Audio - "Aus dem Alltäglichen", 2019
 An immersive fulldome short film with spatial audio produced for the Evening Program "Equinox" at Planetarium Hamburg 2019.
-A paper was later published on a related topic, read on ![DBT](https://www.db-thueringen.de/receive/dbt_mods_00039974) or ![ResearchGate](https://www.researchgate.net/publication/337402782_Spatial_audio_production_for_immersive_fulldome_projections)
+
+## Conference paper "Spatial audio production for immersive fulldome projections", International Conference on Spatial Audio ICSA 2019
+A paper was later published on topic related to the Planetarium project, read on [DBT](https://www.db-thueringen.de/receive/dbt_mods_00039974) or [ResearchGate](https://www.researchgate.net/publication/337402782_Spatial_audio_production_for_immersive_fulldome_projections).
 <br/><br/>
 
 ## Programming, Sound Implementation & Music Direction, Game Demo "Prospector", 2018-2019
-![ProspectorTrailer](https://youtu.be/j8Mv7AojpKQ "Prospector")
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/j8Mv7AojpKQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [PROSPECTOR](https://studio3030.itch.io/prospector) is a narrative adventure game set in a futuristic city built on the rim of a giant crater, veiled in constant fog.
 
