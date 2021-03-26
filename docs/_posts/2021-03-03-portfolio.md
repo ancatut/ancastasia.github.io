@@ -24,7 +24,7 @@ The project involved developing a VR application for the Oculus Quest which part
 <br/><br/>
 
 ## Sound Design, Documentary "God's Cocaine", 2019
-![God's Cocaine](/assets/img/Plakat_Gods_Cocaine_Presse.jpg){: width="400"}
+![God's Cocaine](/assets/img/Plakat_Gods_Cocaine_Presse.jpg){: height="400"}
 Sound design for documentary film ["God's Cocaine"](http://godscocaine.com/)
 <br/><br/>
 
