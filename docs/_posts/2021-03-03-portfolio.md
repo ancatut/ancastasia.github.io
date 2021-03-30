@@ -12,13 +12,13 @@ Project Lead, Unreal Engine 4 Sound Implementation, Music
 ![VRME](/assets/img/VRME tongue.png "VRME")
 A sound exploration in virtual reality, with a focus on immersive audio and experimental music, set in a strange dreamlike scenario. Funded by the Call for Transfers program from HamburgInnovation.
 
-Full team:
-Anca Tutescu: Project lead, Concept, UE4 Sound Implementation, Music & Sound Design
-Jan Wegmann: UE4 Sound Implementation, Music & Sound Design
-Artjom Fransen: Level Design & Implementation
-Charly Preisig: UE4 Programming, VR Implementation
-Valentin Fischer: Tech Art, Unreal Engine 4 Implementation, 3D Modeling
-Maria Weninger: Concept Art, Lighting
+Full team:<br/>
+Anca Tutescu: Project lead, Concept, UE4 Sound Implementation, Music & Sound Design<br/>
+Jan Wegmann: UE4 Sound Implementation, Music & Sound Design<br/>
+Artjom Fransen: Level Design & Implementation<br/>
+Charly Preisig: UE4 Programming, VR Implementation<br/>
+Valentin Fischer: Tech Art, Unreal Engine 4 Implementation, 3D Modeling<br/>
+Maria Weninger: Concept Art, Lighting<br/>
 <br/><br/>
 
 ## Web Programming, NGWebS - Node-based Web Storytelling Editor - 2020-ongoing
