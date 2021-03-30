@@ -4,7 +4,7 @@
   <id>https://ancatut.github.io/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2021-03-31T01:12:09+08:00</updated>
+  <updated>2021-03-31T01:40:23+08:00</updated>
   <author>
     <name>Anca Tutescu</name>
     <uri>https://ancatut.github.io/</uri>
@@ -24,7 +24,7 @@
     <link href="https://ancatut.github.io/posts/portfolio/" rel="alternate" type="text/html" title="Portfolio" />
     <published>2021-03-04T07:32:00+08:00</published>
   
-    <updated>2021-03-26T19:54:26+08:00</updated>
+    <updated>2021-03-31T01:30:01+08:00</updated>
   
     <id>https://ancatut.github.io/posts/portfolio/</id>
     <content src="https://ancatut.github.io/posts/portfolio/" />
@@ -45,18 +45,12 @@
 
 
       VR Music Experience (working title), 2020-ongoing
-Project Lead, Unreal Engine Implementation, Music
+Project Lead, Unreal Engine 4 Sound Implementation, Music
 
+A sound exploration in virtual reality, with a focus on immersive audio and experimental music, set in a strange dreamlike scenario. Funded by the Call for Transfers program from HamburgInnovation.
 
-
-Web Programming, NGWebS - Node-based Web Storytelling Editor - 2020-ongoing
-3-person team developing a next-generation web storytelling editor.
-Repo at NGWebS Editor.
-
-
-VR Rainforest Experience, 2020
-Technical implementation Unity - Kieler Forschungswerkstatt.
-The project involved developing a...
+Full team:
+Anca Tutescu: Project lead, Concept, UE4 Sound Implementation, Music &amp;amp; Sou...
     </summary>
   
 

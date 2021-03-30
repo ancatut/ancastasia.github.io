@@ -8,8 +8,17 @@ pin: true
 ---
 
 ## VR Music Experience (working title), 2020-ongoing
-Project Lead, Unreal Engine Implementation, Music
+Project Lead, Unreal Engine 4 Sound Implementation, Music
 ![VRME](/assets/img/VRME tongue.png "VRME")
+A sound exploration in virtual reality, with a focus on immersive audio and experimental music, set in a strange dreamlike scenario. Funded by the Call for Transfers program from HamburgInnovation.
+
+Full team:
+Anca Tutescu: Project lead, Concept, UE4 Sound Implementation, Music & Sound Design
+Jan Wegmann: UE4 Sound Implementation, Music & Sound Design
+Artjom Fransen: Level Design & Implementation
+Charly Preisig: UE4 Programming, VR Implementation
+Valentin Fischer: Tech Art, Unreal Engine 4 Implementation, 3D Modeling
+Maria Weninger: Concept Art, Lighting
 <br/><br/>
 
 ## Web Programming, NGWebS - Node-based Web Storytelling Editor - 2020-ongoing
@@ -46,7 +55,7 @@ Setup, photography, custom site features and customer support for [https://catsc
 Photography & editing, posting, marketing and customer support for [https://www.instagram.com/catscradleantiques/](https://www.instagram.com/catscradleantiques/)
 <br/><br/>
 
-## Programming, Sound Implementation & Music Direction, Game Demo "Prospector", 2018-2019
+## Programming Unity, Sound Implementation & Music Direction, Game Demo "Prospector", 2018-2019
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/j8Mv7AojpKQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [PROSPECTOR](https://studio3030.itch.io/prospector) is a narrative adventure game set in a futuristic city built on the rim of a giant crater, veiled in constant fog.
 
