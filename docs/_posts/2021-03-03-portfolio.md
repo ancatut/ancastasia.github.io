@@ -27,14 +27,17 @@ Repo at [NGWebS Editor](https://github.com/pekasen/ngwebs-editor).
 <br/><br/>
 
 ## VR Rainforest Experience, 2020
-Technical implementation Unity - [Kieler Forschungswerkstatt](https://www.forschungs-werkstatt.de/allgemein/virtual-reality-in-der-kieler-forschungswerkstatt/).<br/>
-The project involved developing a VR application for the Oculus Quest which participants could wear inside the rainforest greenhouse at The Botanical Garden in Kiel.
+Implementation Unity. Project realized with [Kieler Forschungswerkstatt](https://www.forschungs-werkstatt.de/allgemein/virtual-reality-in-der-kieler-forschungswerkstatt/).<br/>
+The project involved developing a VR application for the Oculus Quest which participants could wear inside the rainforest greenhouse at The Botanical Garden in Kiel, with the purpose of walking along a bridge that is also present in the VR space.
 {% include image-gallery.html folder="/assets/img/rainforest" %}
 <br/><br/>
 
 ## Sound Design, Documentary "God's Cocaine", 2019
 ![God's Cocaine](/assets/img/Plakat_Gods_Cocaine_Presse.jpg){: height="400"}{: .normal}<br/>
 Sound design for documentary film ["God's Cocaine"](http://godscocaine.com/)
+<br/><br/>
+
+## Tutor HAW Tonlabor, Programming & Spatial Audio, 2019
 <br/><br/>
 
 ## Sound Design, Spatial Audio - "Aus dem Alltäglichen", 2019
