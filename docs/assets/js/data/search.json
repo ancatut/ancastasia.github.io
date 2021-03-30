@@ -1,17 +1,19 @@
----
-layout: compress
----
-
 [
-  {% for post in site.posts %}
+  
   {
-    "title": "{{ post.title | escape }}",
-    "url": "{{ site.baseurl }}{{ post.url }}",
-    "categories": "{{ post.categories | join: ', '}}",
-    "tags": "{{ post.tags | join: ', ' }}",
-    "date": "{{ post.date }}",
-    {% include no-linenos.html content=post.content %}
-    "snippet": "{{ content | strip_html | strip_newlines | remove_chars | escape | truncate: 300 | replace: '\', '\\\\' }}"
-  }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
+    "title": "Portfolio",
+    "url": "/posts/portfolio/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-03-04 07:32:00 +0800",
+    
+
+
+
+
+
+    "snippet": "VR Music Experience (working title), 2020-ongoingProject Lead, Unreal Engine 4 Sound Implementation, MusicA sound exploration in virtual reality, with a focus on immersive audio and experimental music, set in a strange dreamlike scenario. Funded by the Call for Transfers program from HamburgInnov..."
+  }
+  
 ]
+

@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://ancatut.github.io/</id>
-  <title>Chirpy</title>
+  <title>Anca Tutescu</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2021-03-31T01:40:23+08:00</updated>
+  <updated>2021-03-31T01:51:19+08:00</updated>
   <author>
     <name>Anca Tutescu</name>
     <uri>https://ancatut.github.io/</uri>
@@ -24,7 +24,7 @@
     <link href="https://ancatut.github.io/posts/portfolio/" rel="alternate" type="text/html" title="Portfolio" />
     <published>2021-03-04T07:32:00+08:00</published>
   
-    <updated>2021-03-31T01:30:01+08:00</updated>
+    <updated>2021-03-31T01:41:42+08:00</updated>
   
     <id>https://ancatut.github.io/posts/portfolio/</id>
     <content src="https://ancatut.github.io/posts/portfolio/" />

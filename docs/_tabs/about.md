@@ -5,7 +5,7 @@ order: 4
 ---
 
 Anca Tutescu studies MA Sound/Vision at HAW Hamburg and is a game developer, programmer and sound designer with a drive to bring talented people together and make cool projects happen.<br>
-This website shows her work so far. For more info get in touch!
+This website shows some of her work so far (more to be added soon). For more info get in touch!
 
 Experienced with:
 - Unity, Unreal Engine
