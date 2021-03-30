@@ -36,6 +36,16 @@ An immersive fulldome short film with spatial audio produced for the Evening Pro
 A paper was later published on topic related to the Planetarium project, read on [DBT](https://www.db-thueringen.de/receive/dbt_mods_00039974) or [ResearchGate](https://www.researchgate.net/publication/337402782_Spatial_audio_production_for_immersive_fulldome_projections).
 <br/><br/>
 
+## Shopify Webstore for antiques business "Cat's Cradle" in Provo, Utah, 2020
+[![Cats Cradle](/assets/img/Logi_bear_p_540x.png){: width="50%"}{: .normal}](https://catscradleworld.com/)<br/>
+Setup, photography, custom site features and customer support for [https://catscradleworld.com/](https://catscradleworld.com/)
+<br/><br/>
+
+## Instagram page for antiques business "Cat's Cradle" in Provo, Utah, 2017-2020
+[![](/assets/img/Screenshot 2021-03-30 182825.png){: .normal}](https://www.instagram.com/catscradleantiques/)<br/>
+Photography & editing, posting, marketing and customer support for [https://www.instagram.com/catscradleantiques/](https://www.instagram.com/catscradleantiques/)
+<br/><br/>
+
 ## Programming, Sound Implementation & Music Direction, Game Demo "Prospector", 2018-2019
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/j8Mv7AojpKQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [PROSPECTOR](https://studio3030.itch.io/prospector) is a narrative adventure game set in a futuristic city built on the rim of a giant crater, veiled in constant fog.
@@ -44,5 +54,8 @@ When a malfunction of your ship’s engine forces you to stay in this city for a
 <br/><br/>
 
 ## Unity Animation, Sound Implementation, some Programming - Slavic Game Jam, 2018
-["Ire & Ike"](https://yesweplaytested.itch.io/ire-and-ike)
+![](/assets/img/ZE2yGd.png){: width="41%"}{: .normal}
+![](/assets/img/SIvlDd.png){: width="58%"}{: .normal}
+<br/>
+Link: ["Ire & Ike"](https://yesweplaytested.itch.io/ire-and-ike)
 <br/><br/>
