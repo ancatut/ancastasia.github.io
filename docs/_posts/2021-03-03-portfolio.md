@@ -19,7 +19,7 @@ Artjom Fransen: Level Design & Implementation<br/>
 Charly Preisig: UE4 Programming, VR Implementation<br/>
 Valentin Fischer: Tech Art, Unreal Engine 4 Implementation, 3D Modeling<br/>
 Maria Weninger: Concept Art, Lighting<br/>
-<br/><br/>
+<br/>
 
 Talk at PLAY! Festival 2020 on the topic:
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VhGztvAOYDw?t=8010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
