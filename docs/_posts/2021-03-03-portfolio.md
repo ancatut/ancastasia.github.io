@@ -22,7 +22,7 @@ Maria Weninger: Concept Art, Lighting<br/>
 <br/><br/>
 
 Talk at PLAY! Festival 2020 on the topic:
-<iframe width="100%" height="400" src="https://youtu.be/VhGztvAOYDw?t=8010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VhGztvAOYDw?t=8010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><br/>
 
 ## Web Programming, NGWebS - Node-based Web Storytelling Editor - 2020-ongoing
